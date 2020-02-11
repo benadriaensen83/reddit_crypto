@@ -1,650 +1,203 @@
-,author,author_created_utc,author_flair_css_class,author_flair_text,author_fullname,body,controversiality,created_utc,distinguished,gilded,id,link_id,nest_level,parent_id,reply_delay,retrieved_on,score,stickied,subreddit,subreddit_id,created_adj,score_hidden,edited
-0,SudoSudonym,1368549601.0,,,t2_bob3w,"Recent Submission history for Cointelegraph_news:
+,all_awardings,associated_award,author,author_flair_background_color,author_flair_css_class,author_flair_richtext,author_flair_template_id,author_flair_text,author_flair_text_color,author_flair_type,author_fullname,author_patreon_flair,author_premium,awarders,body,collapsed_because_crowd_control,created_utc,gildings,id,is_submitter,link_id,locked,no_follow,parent_id,permalink,retrieved_on,score,send_replies,stickied,subreddit,subreddit_id,total_awards_received,created_adj,distinguished,edited
+0,[],,censorship_notifier,,,[],,,,text,t2_b3zn6er,False,True,[],"The following comment by jerdnanam was **silently** greylisted.
 
-domain submitted from|count|%
-:-|-:|-:
-[cointelegraph.com](/search?q=%28and+site%3A%27cointelegraph.com%27+author%3A%27Cointelegraph_news%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new&amp;syntax=cloudsearch&amp;feature=legacy_search)|128|68%
-[youtube.com](/search?q=%28and+site%3A%27youtube.com%27+author%3A%27Cointelegraph_news%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new&amp;syntax=cloudsearch&amp;feature=legacy_search)|15|8%
-[self.CoinTelegraph](/r/CoinTelegraph/search?q=%28and+author%3A%27Cointelegraph_news%27+is_self%3A1+%29&amp;restrict_sr=on&amp;sort=new&amp;syntax=cloudsearch&amp;feature=legacy_search)|11|6%
-[i.imgur.com](/search?q=%28and+site%3A%27i.imgur.com%27+author%3A%27Cointelegraph_news%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new&amp;syntax=cloudsearch&amp;feature=legacy_search)|10|5%
-[self.Bitcoin](/r/Bitcoin/search?q=%28and+author%3A%27Cointelegraph_news%27+is_self%3A1+%29&amp;restrict_sr=on&amp;sort=new&amp;syntax=cloudsearch&amp;feature=legacy_search)|9|5%
-[anoon.co](/search?q=%28and+site%3A%27anoon.co%27+author%3A%27Cointelegraph_news%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new&amp;syntax=cloudsearch&amp;feature=legacy_search)|4|2%
-[self.CryptoCurrency](/r/CryptoCurrency/search?q=%28and+author%3A%27Cointelegraph_news%27+is_self%3A1+%29&amp;restrict_sr=on&amp;sort=new&amp;syntax=cloudsearch&amp;feature=legacy_search)|3|2%
-[reddit.com](/search?q=%28and+site%3A%27reddit.com%27+author%3A%27Cointelegraph_news%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new&amp;syntax=cloudsearch&amp;feature=legacy_search)|1|1%
-[us3.campaign-archive2.com](/search?q=%28and+site%3A%27us3.campaign-archive2.com%27+author%3A%27Cointelegraph_news%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new&amp;syntax=cloudsearch&amp;feature=legacy_search)|1|1%
-[twitter.com](/search?q=%28and+site%3A%27twitter.com%27+author%3A%27Cointelegraph_news%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new&amp;syntax=cloudsearch&amp;feature=legacy_search)|1|1%
-[seanpercival.com](/search?q=%28and+site%3A%27seanpercival.com%27+author%3A%27Cointelegraph_news%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new&amp;syntax=cloudsearch&amp;feature=legacy_search)|1|1%
-[bitcoin-exchange-berlin.com](/search?q=%28and+site%3A%27bitcoin-exchange-berlin.com%27+author%3A%27Cointelegraph_news%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new&amp;syntax=cloudsearch&amp;feature=legacy_search)|1|1%
-[strawpoll.me](/search?q=%28and+site%3A%27strawpoll.me%27+author%3A%27Cointelegraph_news%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new&amp;syntax=cloudsearch&amp;feature=legacy_search)|1|1%
-[cointelegraph.us3.list-manage.com](/search?q=%28and+site%3A%27cointelegraph.us3.list-manage.com%27+author%3A%27Cointelegraph_news%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new&amp;syntax=cloudsearch&amp;feature=legacy_search)|1|1%
+The original comment can be found(in censored form) at this link:
 
-subreddit submitted to|count|%
-:-|-:|-:
-[Bitcoin](/r/Bitcoin/search?q=author%3A%27Cointelegraph_news%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|82|44%
-[CoinTelegraph](/r/CoinTelegraph/search?q=author%3A%27Cointelegraph_news%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|81|43%
-[CryptoCurrency](/r/CryptoCurrency/search?q=author%3A%27Cointelegraph_news%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|8|4%
-[ethereum](/r/ethereum/search?q=author%3A%27Cointelegraph_news%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|4|2%
-[technology](/r/technology/search?q=author%3A%27Cointelegraph_news%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|2|1%
-[conspiracy](/r/conspiracy/search?q=author%3A%27Cointelegraph_news%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|1%
-[BitcoinUK](/r/BitcoinUK/search?q=author%3A%27Cointelegraph_news%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|1%
-[altcoin](/r/altcoin/search?q=author%3A%27Cointelegraph_news%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|1%
-[BitcoinGambling](/r/BitcoinGambling/search?q=author%3A%27Cointelegraph_news%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|1%
-[BlockChain](/r/BlockChain/search?q=author%3A%27Cointelegraph_news%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|1%
-[btc](/r/btc/search?q=author%3A%27Cointelegraph_news%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|1%
-[wow](/r/wow/search?q=author%3A%27Cointelegraph_news%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|1%
-[UkrainianConflict](/r/UkrainianConflict/search?q=author%3A%27Cointelegraph_news%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|1%
-[belarus](/r/belarus/search?q=author%3A%27Cointelegraph_news%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|1%
-[Ford](/r/Ford/search?q=author%3A%27Cointelegraph_news%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|1%",0,1481742809,,0,db725lq,t3_5icik9,1,t3_5icik9,0,1483764348,1,False,spam,t5_2qita,2016-12-14 20:13:29,,
-1,SudoSudonym,1368549601.0,,,t2_bob3w,"Recent Submission history for Cointelegraph_news:
+np.reddit.com/r/ Bitcoin/comments/f1mooh/-/fh7wzhq?context=4
 
-domain submitted from|count|%
-:-|-:|-:
-[cointelegraph.com](/search?q=%28and+site%3A%27cointelegraph.com%27+author%3A%27Cointelegraph_news%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new&amp;syntax=cloudsearch&amp;feature=legacy_search)|128|68%
-[youtube.com](/search?q=%28and+site%3A%27youtube.com%27+author%3A%27Cointelegraph_news%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new&amp;syntax=cloudsearch&amp;feature=legacy_search)|15|8%
-[self.CoinTelegraph](/r/CoinTelegraph/search?q=%28and+author%3A%27Cointelegraph_news%27+is_self%3A1+%29&amp;restrict_sr=on&amp;sort=new&amp;syntax=cloudsearch&amp;feature=legacy_search)|11|6%
-[i.imgur.com](/search?q=%28and+site%3A%27i.imgur.com%27+author%3A%27Cointelegraph_news%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new&amp;syntax=cloudsearch&amp;feature=legacy_search)|10|5%
-[self.Bitcoin](/r/Bitcoin/search?q=%28and+author%3A%27Cointelegraph_news%27+is_self%3A1+%29&amp;restrict_sr=on&amp;sort=new&amp;syntax=cloudsearch&amp;feature=legacy_search)|9|5%
-[anoon.co](/search?q=%28and+site%3A%27anoon.co%27+author%3A%27Cointelegraph_news%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new&amp;syntax=cloudsearch&amp;feature=legacy_search)|4|2%
-[self.CryptoCurrency](/r/CryptoCurrency/search?q=%28and+author%3A%27Cointelegraph_news%27+is_self%3A1+%29&amp;restrict_sr=on&amp;sort=new&amp;syntax=cloudsearch&amp;feature=legacy_search)|3|2%
-[reddit.com](/search?q=%28and+site%3A%27reddit.com%27+author%3A%27Cointelegraph_news%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new&amp;syntax=cloudsearch&amp;feature=legacy_search)|1|1%
-[us3.campaign-archive2.com](/search?q=%28and+site%3A%27us3.campaign-archive2.com%27+author%3A%27Cointelegraph_news%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new&amp;syntax=cloudsearch&amp;feature=legacy_search)|1|1%
-[twitter.com](/search?q=%28and+site%3A%27twitter.com%27+author%3A%27Cointelegraph_news%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new&amp;syntax=cloudsearch&amp;feature=legacy_search)|1|1%
-[seanpercival.com](/search?q=%28and+site%3A%27seanpercival.com%27+author%3A%27Cointelegraph_news%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new&amp;syntax=cloudsearch&amp;feature=legacy_search)|1|1%
-[bitcoin-exchange-berlin.com](/search?q=%28and+site%3A%27bitcoin-exchange-berlin.com%27+author%3A%27Cointelegraph_news%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new&amp;syntax=cloudsearch&amp;feature=legacy_search)|1|1%
-[strawpoll.me](/search?q=%28and+site%3A%27strawpoll.me%27+author%3A%27Cointelegraph_news%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new&amp;syntax=cloudsearch&amp;feature=legacy_search)|1|1%
-[cointelegraph.us3.list-manage.com](/search?q=%28and+site%3A%27cointelegraph.us3.list-manage.com%27+author%3A%27Cointelegraph_news%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new&amp;syntax=cloudsearch&amp;feature=legacy_search)|1|1%
-
-subreddit submitted to|count|%
-:-|-:|-:
-[Bitcoin](/r/Bitcoin/search?q=author%3A%27Cointelegraph_news%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|82|44%
-[CoinTelegraph](/r/CoinTelegraph/search?q=author%3A%27Cointelegraph_news%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|81|43%
-[CryptoCurrency](/r/CryptoCurrency/search?q=author%3A%27Cointelegraph_news%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|8|4%
-[ethereum](/r/ethereum/search?q=author%3A%27Cointelegraph_news%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|4|2%
-[technology](/r/technology/search?q=author%3A%27Cointelegraph_news%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|2|1%
-[conspiracy](/r/conspiracy/search?q=author%3A%27Cointelegraph_news%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|1%
-[BitcoinUK](/r/BitcoinUK/search?q=author%3A%27Cointelegraph_news%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|1%
-[altcoin](/r/altcoin/search?q=author%3A%27Cointelegraph_news%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|1%
-[BitcoinGambling](/r/BitcoinGambling/search?q=author%3A%27Cointelegraph_news%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|1%
-[BlockChain](/r/BlockChain/search?q=author%3A%27Cointelegraph_news%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|1%
-[btc](/r/btc/search?q=author%3A%27Cointelegraph_news%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|1%
-[wow](/r/wow/search?q=author%3A%27Cointelegraph_news%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|1%
-[UkrainianConflict](/r/UkrainianConflict/search?q=author%3A%27Cointelegraph_news%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|1%
-[belarus](/r/belarus/search?q=author%3A%27Cointelegraph_news%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|1%
-[Ford](/r/Ford/search?q=author%3A%27Cointelegraph_news%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|1%",0,1481742285,,0,db71otd,t3_5icgoc,1,t3_5icgoc,1,1483764118,1,False,spam,t5_2qita,2016-12-14 20:04:45,,
-2,discord19,1240016751.0,,,t2_3g80s,"Recent Submission history for johnnyaltcoin:
-
-domain submitted from|count|%
-:-|-:|-:
-[bestbitcoinreviews.com](/search?q=%28and+site%3A%27bestbitcoinreviews.com%27+author%3A%27johnnyaltcoin%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new&amp;feature=legacy_search)|40|68%
-[self.BitMarket](/r/BitMarket/search?q=%28and+author%3A%27johnnyaltcoin%27+is_self%3A1+%29&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|3|5%
-[youtube.com](/search?q=%28and+site%3A%27youtube.com%27+author%3A%27johnnyaltcoin%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new&amp;feature=legacy_search)|3|5%
-[self.Bitcoin](/r/Bitcoin/search?q=%28and+author%3A%27johnnyaltcoin%27+is_self%3A1+%29&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|2|3%
-[casabitcoin.com](/search?q=%28and+site%3A%27casabitcoin.com%27+author%3A%27johnnyaltcoin%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new&amp;feature=legacy_search)|2|3%
-[youtu.be](/search?q=%28and+site%3A%27youtu.be%27+author%3A%27johnnyaltcoin%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new&amp;feature=legacy_search)|2|3%
-[bitcointalk.org](/search?q=%28and+site%3A%27bitcointalk.org%27+author%3A%27johnnyaltcoin%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new&amp;feature=legacy_search)|1|2%
-[bitcoin-generator.net](/search?q=%28and+site%3A%27bitcoin-generator.net%27+author%3A%27johnnyaltcoin%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new&amp;feature=legacy_search)|1|2%
-[cointelegraph.com](/search?q=%28and+site%3A%27cointelegraph.com%27+author%3A%27johnnyaltcoin%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new&amp;feature=legacy_search)|1|2%
-[cointerra.com](/search?q=%28and+site%3A%27cointerra.com%27+author%3A%27johnnyaltcoin%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new&amp;feature=legacy_search)|1|2%
-[topbitcoinsites.com](/search?q=%28and+site%3A%27topbitcoinsites.com%27+author%3A%27johnnyaltcoin%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new&amp;feature=legacy_search)|1|2%
-[self.BitcoinBeginners](/r/BitcoinBeginners/search?q=%28and+author%3A%27johnnyaltcoin%27+is_self%3A1+%29&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|2%
-[self.gambling](/r/gambling/search?q=%28and+author%3A%27johnnyaltcoin%27+is_self%3A1+%29&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|2%
-
-subreddit submitted to|count|%
-:-|-:|-:
-[Bitcoin](/r/Bitcoin/search?q=author%3A%27johnnyaltcoin%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|40|68%
-[gambling](/r/gambling/search?q=author%3A%27johnnyaltcoin%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|3|5%
-[BitMarket](/r/BitMarket/search?q=author%3A%27johnnyaltcoin%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|3|5%
-[BitcoinMining](/r/BitcoinMining/search?q=author%3A%27johnnyaltcoin%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|3|5%
-[BitcoinBeginners](/r/BitcoinBeginners/search?q=author%3A%27johnnyaltcoin%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|2|3%
-[BitcoinVideo](/r/BitcoinVideo/search?q=author%3A%27johnnyaltcoin%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|2|3%
-[bitcoininvesting](/r/bitcoininvesting/search?q=author%3A%27johnnyaltcoin%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|2|3%
-[BitcoinAll](/r/BitcoinAll/search?q=author%3A%27johnnyaltcoin%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|2%
-[altcoin](/r/altcoin/search?q=author%3A%27johnnyaltcoin%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|2%
-[litecoinmining](/r/litecoinmining/search?q=author%3A%27johnnyaltcoin%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|2%
-[litecoin](/r/litecoin/search?q=author%3A%27johnnyaltcoin%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|2%",0,1469583862,,0,d5sdwzu,t3_4us7u2,1,t3_4us7u2,0,1471707713,1,False,spam,t5_2qita,2016-07-27 03:44:22,,
-3,zluckdog,1386777135.0,,,t2_eb9oa,"Recent Submission history for bitcoin-potato:
-
-domain submitted from|count|%
-:-|-:|-:
-[bitcoinpotato.com](/search?q=%28and+site%3A%27bitcoinpotato.com%27+author%3A%27bitcoin-potato%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new&amp;feature=legacy_search)|3|100%
-
-subreddit submitted to|count|%
-:-|-:|-:
-[Bitcoin](/r/Bitcoin/search?q=author%3A%27bitcoin-potato%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|33%
-[btc](/r/btc/search?q=author%3A%27bitcoin-potato%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|33%
-[Buttcoin](/r/Buttcoin/search?q=author%3A%27bitcoin-potato%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|33%",0,1459378163,,0,d1jplcd,t3_4cn95l,1,t3_4cn95l,1,1460988089,1,False,spam,t5_2qita,2016-03-31 00:49:23,,
-4,must_warn_others,1314015645.0,,,t2_5pknf,"Recent Submission history for noturfault:
-
-domain submitted from|count|%
-:-|-:|-:
-[bitcoin-daytrading.com](/search?q=%28and+site%3A%27bitcoin-daytrading.com%27+author%3A%27noturfault%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new&amp;feature=legacy_search)|93|85%
-[youtube.com](/search?q=%28and+site%3A%27youtube.com%27+author%3A%27noturfault%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new&amp;feature=legacy_search)|8|7%
-[self.CryptoMarkets](/r/CryptoMarkets/search?q=%28and+author%3A%27noturfault%27+is_self%3A1+%29&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|3|3%
-[self.Ripple](/r/Ripple/search?q=%28and+author%3A%27noturfault%27+is_self%3A1+%29&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|1%
-[self.factom](/r/factom/search?q=%28and+author%3A%27noturfault%27+is_self%3A1+%29&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|1%
-[self.SysCoin](/r/SysCoin/search?q=%28and+author%3A%27noturfault%27+is_self%3A1+%29&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|1%
-[self.MMA](/r/MMA/search?q=%28and+author%3A%27noturfault%27+is_self%3A1+%29&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|1%
-[self.space](/r/space/search?q=%28and+author%3A%27noturfault%27+is_self%3A1+%29&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|1%
-
-subreddit submitted to|count|%
-:-|-:|-:
-[CryptoCurrency](/r/CryptoCurrency/search?q=author%3A%27noturfault%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|27|25%
-[Bitcoin](/r/Bitcoin/search?q=author%3A%27noturfault%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|17|16%
-[bitcoin_uncensored](/r/bitcoin_uncensored/search?q=author%3A%27noturfault%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|6|6%
-[btc](/r/btc/search?q=author%3A%27noturfault%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|5|5%
-[ethereum](/r/ethereum/search?q=author%3A%27noturfault%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|5|5%
-[BitcoinAll](/r/BitcoinAll/search?q=author%3A%27noturfault%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|5|5%
-[ethtrader](/r/ethtrader/search?q=author%3A%27noturfault%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|5|5%
-[The_Donald](/r/The_Donald/search?q=author%3A%27noturfault%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|4|4%
-[CryptoMarkets](/r/CryptoMarkets/search?q=author%3A%27noturfault%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|3|3%
-[bitcoindaytrading](/r/bitcoindaytrading/search?q=author%3A%27noturfault%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|3|3%
-[BitShares](/r/BitShares/search?q=author%3A%27noturfault%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|2|2%
-[maidsafe](/r/maidsafe/search?q=author%3A%27noturfault%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|2|2%
-[dogecoin](/r/dogecoin/search?q=author%3A%27noturfault%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|2|2%
-[dashpay](/r/dashpay/search?q=author%3A%27noturfault%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|2|2%
-[Monero](/r/Monero/search?q=author%3A%27noturfault%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|2|2%
-[BitcoinCA](/r/BitcoinCA/search?q=author%3A%27noturfault%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|2|2%
-[news](/r/news/search?q=author%3A%27noturfault%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|2|2%
-[counterparty_xcp](/r/counterparty_xcp/search?q=author%3A%27noturfault%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|1%
-[startcoin](/r/startcoin/search?q=author%3A%27noturfault%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|1%
-[europe](/r/europe/search?q=author%3A%27noturfault%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|1%
-
-_^...and ^12 ^more_",0,1458614778,,0,d18p7gg,t3_4bfo2u,1,t3_4bfo2u,0,1460798207,1,False,spam,t5_2qita,2016-03-22 03:46:18,,
-5,Kylde,1162989098.0,,,t2_q22x,"Recent Submission history for noturfault:
-
-domain submitted from|count|%
-:-|-:|-:
-[bitcoin-daytrading.com](/search?q=%28and+site%3A%27bitcoin-daytrading.com%27+author%3A%27noturfault%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new&amp;feature=legacy_search)|49|80%
-[youtube.com](/search?q=%28and+site%3A%27youtube.com%27+author%3A%27noturfault%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new&amp;feature=legacy_search)|8|13%
-[self.CryptoMarkets](/r/CryptoMarkets/search?q=%28and+author%3A%27noturfault%27+is_self%3A1+%29&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|2|3%
-[self.MMA](/r/MMA/search?q=%28and+author%3A%27noturfault%27+is_self%3A1+%29&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|2%
-[self.space](/r/space/search?q=%28and+author%3A%27noturfault%27+is_self%3A1+%29&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|2%
-
-subreddit submitted to|count|%
-:-|-:|-:
-[CryptoCurrency](/r/CryptoCurrency/search?q=author%3A%27noturfault%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|17|28%
-[Bitcoin](/r/Bitcoin/search?q=author%3A%27noturfault%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|14|23%
-[ethtrader](/r/ethtrader/search?q=author%3A%27noturfault%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|5|8%
-[The_Donald](/r/The_Donald/search?q=author%3A%27noturfault%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|4|7%
-[ethereum](/r/ethereum/search?q=author%3A%27noturfault%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|3|5%
-[bitcoindaytrading](/r/bitcoindaytrading/search?q=author%3A%27noturfault%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|3|5%
-[news](/r/news/search?q=author%3A%27noturfault%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|2|3%
-[BitcoinAll](/r/BitcoinAll/search?q=author%3A%27noturfault%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|2|3%
-[CryptoMarkets](/r/CryptoMarkets/search?q=author%3A%27noturfault%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|2|3%
-[SandersForPresident](/r/SandersForPresident/search?q=author%3A%27noturfault%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|2%
-[technology](/r/technology/search?q=author%3A%27noturfault%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|2%
-[ethinvestor](/r/ethinvestor/search?q=author%3A%27noturfault%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|2%
-[Buttcoin](/r/Buttcoin/search?q=author%3A%27noturfault%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|2%
-[dogecoin](/r/dogecoin/search?q=author%3A%27noturfault%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|2%
-[MMA](/r/MMA/search?q=author%3A%27noturfault%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|2%
-[btc](/r/btc/search?q=author%3A%27noturfault%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|2%
-[videos](/r/videos/search?q=author%3A%27noturfault%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|2%
-[space](/r/space/search?q=author%3A%27noturfault%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|2%",0,1458189771,,0,d12xbxy,t3_4arj91,1,t3_4arj91,0,1460698306,1,False,spam,t5_2qita,2016-03-17 05:42:51,,
-6,SudoSudonym,1368549601.0,,,t2_bob3w,"Recent Submission history for noturfault:
-
-domain submitted from|count|%
-:-|-:|-:
-[bitcoin-daytrading.com](/search?q=%28and+site%3A%27bitcoin-daytrading.com%27+author%3A%27noturfault%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new&amp;feature=legacy_search)|43|78%
-[youtube.com](/search?q=%28and+site%3A%27youtube.com%27+author%3A%27noturfault%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new&amp;feature=legacy_search)|8|15%
-[self.CryptoMarkets](/r/CryptoMarkets/search?q=%28and+author%3A%27noturfault%27+is_self%3A1+%29&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|2|4%
-[self.MMA](/r/MMA/search?q=%28and+author%3A%27noturfault%27+is_self%3A1+%29&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|2%
-[self.space](/r/space/search?q=%28and+author%3A%27noturfault%27+is_self%3A1+%29&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|2%
-
-subreddit submitted to|count|%
-:-|-:|-:
-[CryptoCurrency](/r/CryptoCurrency/search?q=author%3A%27noturfault%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|16|29%
-[Bitcoin](/r/Bitcoin/search?q=author%3A%27noturfault%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|13|24%
-[ethtrader](/r/ethtrader/search?q=author%3A%27noturfault%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|5|9%
-[The_Donald](/r/The_Donald/search?q=author%3A%27noturfault%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|4|7%
-[ethereum](/r/ethereum/search?q=author%3A%27noturfault%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|3|5%
-[bitcoindaytrading](/r/bitcoindaytrading/search?q=author%3A%27noturfault%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|3|5%
-[CryptoMarkets](/r/CryptoMarkets/search?q=author%3A%27noturfault%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|2|4%
-[ethinvestor](/r/ethinvestor/search?q=author%3A%27noturfault%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|2%
-[Buttcoin](/r/Buttcoin/search?q=author%3A%27noturfault%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|2%
-[news](/r/news/search?q=author%3A%27noturfault%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|2%
-[dogecoin](/r/dogecoin/search?q=author%3A%27noturfault%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|2%
-[MMA](/r/MMA/search?q=author%3A%27noturfault%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|2%
-[technology](/r/technology/search?q=author%3A%27noturfault%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|2%
-[btc](/r/btc/search?q=author%3A%27noturfault%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|2%
-[videos](/r/videos/search?q=author%3A%27noturfault%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|2%
-[space](/r/space/search?q=author%3A%27noturfault%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|2%",0,1458109843,,0,d11p2c5,t3_4amlbb,1,t3_4amlbb,0,1460677019,1,False,spam,t5_2qita,2016-03-16 07:30:43,,
-7,Kylde,1162989098.0,,,t2_q22x,"Recent Submission history for kie90funf:
-
-domain submitted from|count|%
-:-|-:|-:
-[youtu.be](/search?q=%28and+site%3A%27youtu.be%27+author%3A%27kie90funf%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new&amp;feature=legacy_search)|2|25%
-[bitcoinempire.epizy.com](/search?q=%28and+site%3A%27bitcoinempire.epizy.com%27+author%3A%27kie90funf%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new&amp;feature=legacy_search)|2|25%
-[youtube.com](/search?q=%28and+site%3A%27youtube.com%27+author%3A%27kie90funf%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new&amp;feature=legacy_search)|2|25%
-[bitcoin-faucet.hol.es](/search?q=%28and+site%3A%27bitcoin-faucet.hol.es%27+author%3A%27kie90funf%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new&amp;feature=legacy_search)|1|13%
-[btc202.wordpress.com](/search?q=%28and+site%3A%27btc202.wordpress.com%27+author%3A%27kie90funf%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new&amp;feature=legacy_search)|1|13%
-
-subreddit submitted to|count|%
-:-|-:|-:
-[Bitcoin](/r/Bitcoin/search?q=author%3A%27kie90funf%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|5|63%
-[funny](/r/funny/search?q=author%3A%27kie90funf%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|13%
-[introduce](/r/introduce/search?q=author%3A%27kie90funf%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|13%
-[bitcoins](/r/bitcoins/search?q=author%3A%27kie90funf%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|13%",0,1457551733,,0,d0tpwoc,t3_49pnso,1,t3_49pnso,0,1460539188,1,False,spam,t5_2qita,2016-03-09 20:28:53,,
-8,kumquat_juice,1335576267.0,,,t2_7krj0,"Recent Submission history for misviluti:
-
-domain submitted from|count|%
-:-|-:|-:
-[bitcoin-kran.com](/search?q=%28and+site%3A%27bitcoin-kran.com%27+author%3A%27misviluti%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new&amp;feature=legacy_search)|1|100%
-
-subreddit submitted to|count|%
-:-|-:|-:
-[androidthemes](/r/androidthemes/search?q=author%3A%27misviluti%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|100%",0,1454806460,,0,czqjl9m,t3_44j4tv,1,t3_44j4tv,0,1458336524,1,False,spam,t5_2qita,2016-02-07 01:54:20,,
-9,Aradon,1232975375.0,,,t2_3cyxb,"Recent Submission history for rederegof:
-
-domain submitted from|count|%
-:-|-:|-:
-[bitcoin-kran.com](/search?q=%28and+site%3A%27bitcoin-kran.com%27+author%3A%27rederegof%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new&amp;feature=legacy_search)|1|100%
-
-subreddit submitted to|count|%
-:-|-:|-:
-[animegifs](/r/animegifs/search?q=author%3A%27rederegof%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|100%",0,1454592301,,0,cznhjf2,t3_445875,1,t3_445875,0,1458283730,1,False,spam,t5_2qita,2016-02-04 14:25:01,,
-10,nt337,1422670574.0,,,t2_l20d4,"Recent Submission history for frangenfvedem:
-
-domain submitted from|count|%
-:-|-:|-:
-[bitcoin-kran.com](/search?q=%28and+site%3A%27bitcoin-kran.com%27+author%3A%27frangenfvedem%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new&amp;feature=legacy_search)|1|100%
-
-subreddit submitted to|count|%
-:-|-:|-:
-[UnusualArt](/r/UnusualArt/search?q=author%3A%27frangenfvedem%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|100%",0,1453940742,,0,czejb6f,t3_430na7,1,t3_430na7,0,1454774548,1,False,spam,t5_2qita,2016-01-28 01:25:42,,
-11,TheYellowRose,1326699023.0,,,t2_6odeb,"Recent Submission history for turolofi:
-
-domain submitted from|count|%
-:-|-:|-:
-[bitcoin-kran.com](/search?q=%28and+site%3A%27bitcoin-kran.com%27+author%3A%27turolofi%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new&amp;feature=legacy_search)|1|100%
-
-subreddit submitted to|count|%
-:-|-:|-:
-[SexPositive](/r/SexPositive/search?q=author%3A%27turolofi%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|100%",0,1453933969,,0,czeezuz,t3_4304am,1,t3_4304am,1,1454772445,1,False,spam,t5_2qita,2016-01-27 23:32:49,,
-12,NSA-SURVEILLANCE,1370738430.0,,,t2_bz1p3,"Recent Submission history for turnbarkamo:
-
-domain submitted from|count|%
-:-|-:|-:
-[bitcoin-kran.com](/search?q=%28and+site%3A%27bitcoin-kran.com%27+author%3A%27turnbarkamo%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new&amp;feature=legacy_search)|1|100%
-
-subreddit submitted to|count|%
-:-|-:|-:
-[archeage](/r/archeage/search?q=author%3A%27turnbarkamo%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|100%",0,1453918322,,0,cze3cb9,t3_42yris,1,t3_42yris,0,1454766883,1,False,spam,t5_2qita,2016-01-27 19:12:02,,
-13,MammothCheese,1376056288.0,,,t2_cova8,"Recent Submission history for myypachasni:
-
-domain submitted from|count|%
-:-|-:|-:
-[bitcoin-kran.com](/search?q=%28and+site%3A%27bitcoin-kran.com%27+author%3A%27myypachasni%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new&amp;feature=legacy_search)|1|100%
-
-subreddit submitted to|count|%
-:-|-:|-:
-[Windows10](/r/Windows10/search?q=author%3A%27myypachasni%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|100%",0,1453914738,,0,cze0nv7,t3_42ygdx,1,t3_42ygdx,1,1454765550,1,False,spam,t5_2qita,2016-01-27 18:12:18,,
-14,Fonjask,1311610414.0,,,t2_5kcpz,"Recent Submission history for sieleamacta:
-
-domain submitted from|count|%
-:-|-:|-:
-[bitcoin-kran.com](/search?q=%28and+site%3A%27bitcoin-kran.com%27+author%3A%27sieleamacta%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new&amp;feature=legacy_search)|1|100%
-
-subreddit submitted to|count|%
-:-|-:|-:
-[Yogscast](/r/Yogscast/search?q=author%3A%27sieleamacta%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|100%",0,1453911663,,0,czdygi9,t3_42y74b,1,t3_42y74b,0,1454764511,1,False,spam,t5_2qita,2016-01-27 17:21:03,,
-15,Tim-Sanchez,1358187344.0,,,t2_a83j2,"Recent Submission history for reileytada:
-
-domain submitted from|count|%
-:-|-:|-:
-[bitcoin-kran.com](/search?q=%28and+site%3A%27bitcoin-kran.com%27+author%3A%27reileytada%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new&amp;feature=legacy_search)|1|100%
-
-subreddit submitted to|count|%
-:-|-:|-:
-[TagPro](/r/TagPro/search?q=author%3A%27reileytada%27&amp;restrict_sr=on&amp;sort=new&amp;feature=legacy_search)|1|100%",0,1453910571,,0,czdxpga,t3_42y3z5,1,t3_42y3z5,0,1454764158,1,False,spam,t5_2qita,2016-01-27 17:02:51,,
-16,Pokechu22,1384556244.0,,,t2_dxlkj,"Just as a quick clarification -- that search wouldn't give comments at all, only posts (search doesn't work on comments).
-
-But aside from that, I can reproduce the issue: [here's the search](https://www.reddit.com/search?q=author%3Aluke-jr).  Now, if you hover over the &amp;delta; symbol on the side, you get the [cloudsearch syntax](https://www.reddit.com/wiki/search#wiki_cloudsearch_syntax) representation: `(and (field author 'luke') (field author 'jr'))`.  Yea, that's not particularly useful.  
-
-You'd need to use a phrase search.  Unfortunately, phrase search is broken.  You *can* do it in cloudsearch syntax, though.  Easiest way to do so: 
-
-1. Search for whatever you are interested in, in lucene syntax.  EG [`author:luke-jr bitcoin OR internet`](https://www.reddit.com/search?q=author%3Aluke-jr+bitcoin+OR+internet).  You won't receive any results.
-2. Hover over the delta and select everything in the parentheses.  Then copy it.  EG `(and (field author 'luke') (field author 'jr') (or (field text 'bitcoin') (field text 'internet')))`.
-3. Paste that in the search field, and search for it.  [Example](https://www.reddit.com/search?q=%28and+%28field+author+%27luke%27%29+%28field+author+%27jr%27%29+%28or+%28field+text+%27bitcoin%27%29+%28field+text+%27internet%27%29%29%29&amp;restrict_sr=&amp;sort=relevance2&amp;t=all).  You still will receive no results.
-4. Edit that text so that `(field author 'luke') (field author 'jr')` is instead `(field author 'luke-jr')`.  [Search again](https://www.reddit.com/search?q=%28and+%28field+author+%27luke-jr%27%29+%28or+%28field+text+%27bitcoin%27%29+%28field+text+%27internet%27%29%29%29&amp;restrict_sr=&amp;sort=relevance2&amp;t=all).  There still will be no results.
-5.  Add `&amp;syntax=cloudsearch` to the end of the URL.  Then go.  You will (finally) get [your results](https://www.reddit.com/search?q=%28and+%28field+author+%27luke-jr%27%29+%28or+%28field+text+%27bitcoin%27%29+%28field+text+%27internet%27%29%29%29&amp;restrict_sr=&amp;sort=relevance2&amp;t=all&amp;syntax=cloudsearch).
-
-Also, duplicates: 
-
-* https://www.reddit.com/r/bugs/comments/2cwjz9/search_queries_get_mangled_to_the_point_where/ (/u/q0-)
-* https://www.reddit.com/r/bugs/comments/2c3wf2/advanced_search_for_authors_broken_when_there_is/ (/u/notsosmiley)
-* https://www.reddit.com/r/bugs/comments/26acl5/search_and_author_attribute_doesnt_return_results/ (/u/tst__)
-
-Note that you can't edit the search query without re-adding `&amp;syntax=cloudsearch`.  It's a bit of a pain.
-
-If phrase search were to be fixed, [this library (`l2cs`)](https://github.com/kemitche/l2cs) would need to be updated -- it's the one that handles converting to cloudsearch syntax.  (However, it's an old library, and apparently you can just create lucene syntax searches with cloudsearch now).  ",0,1444170990,,0,cvqmxyw,t3_3nrgn1,1,t3_3nrgn1,2422,1446812561,3,,bugs,t5_2h84o,2015-10-07 00:36:30,,
-17,plurk,1274041342.0,,,t2_428y6,"Recent Submission history for mychael73:
-
-domain submitted from|count|%
-:-|-:|-:
-[frogtheater.com](/search?q=%28and+site%3A%27frogtheater.com%27+author%3A%27mychael73%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new)|137|96%
-[giveforward.com](/search?q=%28and+site%3A%27giveforward.com%27+author%3A%27mychael73%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new)|2|1%
-[redd.it](/search?q=%28and+site%3A%27redd.it%27+author%3A%27mychael73%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new)|1|1%
-[self.movies](/r/movies/search?q=%28and+author%3A%27mychael73%27+is_self%3A1+%29&amp;restrict_sr=on&amp;sort=new)|1|1%
-[bitcoin-teen-makes-thousands.blogspot.com](/search?q=%28and+site%3A%27bitcoin-teen-makes-thousands.blogspot.com%27+author%3A%27mychael73%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new)|1|1%
-[swtor.ga](/search?q=%28and+site%3A%27swtor.ga%27+author%3A%27mychael73%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new)|1|1%
-
-subreddit submitted to|count|%
-:-|-:|-:
-[BestOfStreamingVideo](/r/BestOfStreamingVideo/search?q=author%3A%27mychael73%27&amp;restrict_sr=on&amp;sort=new)|138|97%
-[movies](/r/movies/search?q=author%3A%27mychael73%27&amp;restrict_sr=on&amp;sort=new)|1|1%
-[Fundraisers](/r/Fundraisers/search?q=author%3A%27mychael73%27&amp;restrict_sr=on&amp;sort=new)|1|1%
-[UpliftingNews](/r/UpliftingNews/search?q=author%3A%27mychael73%27&amp;restrict_sr=on&amp;sort=new)|1|1%
-[news](/r/news/search?q=author%3A%27mychael73%27&amp;restrict_sr=on&amp;sort=new)|1|1%
-[eFreebies](/r/eFreebies/search?q=author%3A%27mychael73%27&amp;restrict_sr=on&amp;sort=new)|1|1%",0,1436123397,,0,cst1qsa,t3_3c7xw1,1,t3_3c7xw1,0,1437609270,1,,spam,t5_2qita,2015-07-05 21:09:57,False,
-18,TheRealHortnon,1248483450.0,,,t2_3k7bt,"Tldr: someone broke into the sysadmin's laptop and downloaded the wallet over his trusted VPN connection.
-
-18000 bitcoin stolen on January 4.
-
-Other than that, they seem to have decent operations procedures. They retained forensic investigators to image the drives, and rebuilt everything from backup on new hardware
-
-If I did it right, this is a search on /r/bitcoin for that day
-
-https://www.reddit.com/search?q=(and+subreddit%3A%27bitcoin%27+timestamp%3A1420329600..1420415999)&amp;syntax=cloudsearch",0,1436042901,,0,css9ahy,t3_3c3jug,1,t3_3c3jug,29619,1437586332,4,,Buttcoin,t5_2sngy,2015-07-04 22:48:21,False,1436043917.0
-19,elfa82,,,,,"Recent Submission history for Cointelegraph_news:
-
-domain submitted from|count|%
-:-|-:|-:
-[cointelegraph.com](/search?q=%28and+site%3A%27cointelegraph.com%27+author%3A%27Cointelegraph_news%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new)|96|64%
-[youtube.com](/search?q=%28and+site%3A%27youtube.com%27+author%3A%27Cointelegraph_news%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new)|15|10%
-[self.CoinTelegraph](/r/CoinTelegraph/search?q=%28and+author%3A%27Cointelegraph_news%27+is_self%3A1+%29&amp;restrict_sr=on&amp;sort=new)|11|7%
-[i.imgur.com](/search?q=%28and+site%3A%27i.imgur.com%27+author%3A%27Cointelegraph_news%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new)|10|7%
-[self.Bitcoin](/r/Bitcoin/search?q=%28and+author%3A%27Cointelegraph_news%27+is_self%3A1+%29&amp;restrict_sr=on&amp;sort=new)|7|5%
-[self.CryptoCurrency](/r/CryptoCurrency/search?q=%28and+author%3A%27Cointelegraph_news%27+is_self%3A1+%29&amp;restrict_sr=on&amp;sort=new)|3|2%
-[reddit.com](/search?q=%28and+site%3A%27reddit.com%27+author%3A%27Cointelegraph_news%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new)|1|1%
-[us3.campaign-archive2.com](/search?q=%28and+site%3A%27us3.campaign-archive2.com%27+author%3A%27Cointelegraph_news%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new)|1|1%
-[twitter.com](/search?q=%28and+site%3A%27twitter.com%27+author%3A%27Cointelegraph_news%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new)|1|1%
-[seanpercival.com](/search?q=%28and+site%3A%27seanpercival.com%27+author%3A%27Cointelegraph_news%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new)|1|1%
-[bitcoin-exchange-berlin.com](/search?q=%28and+site%3A%27bitcoin-exchange-berlin.com%27+author%3A%27Cointelegraph_news%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new)|1|1%
-[strawpoll.me](/search?q=%28and+site%3A%27strawpoll.me%27+author%3A%27Cointelegraph_news%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new)|1|1%
-[cointelegraph.us3.list-manage.com](/search?q=%28and+site%3A%27cointelegraph.us3.list-manage.com%27+author%3A%27Cointelegraph_news%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new)|1|1%
-
-subreddit submitted to|count|%
-:-|-:|-:
-[CoinTelegraph](/r/CoinTelegraph/search?q=author%3A%27Cointelegraph_news%27&amp;restrict_sr=on&amp;sort=new)|80|54%
-[Bitcoin](/r/Bitcoin/search?q=author%3A%27Cointelegraph_news%27&amp;restrict_sr=on&amp;sort=new)|59|40%
-[CryptoCurrency](/r/CryptoCurrency/search?q=author%3A%27Cointelegraph_news%27&amp;restrict_sr=on&amp;sort=new)|4|3%
-[technology](/r/technology/search?q=author%3A%27Cointelegraph_news%27&amp;restrict_sr=on&amp;sort=new)|2|1%
-[wow](/r/wow/search?q=author%3A%27Cointelegraph_news%27&amp;restrict_sr=on&amp;sort=new)|1|1%
-[UkrainianConflict](/r/UkrainianConflict/search?q=author%3A%27Cointelegraph_news%27&amp;restrict_sr=on&amp;sort=new)|1|1%
-[belarus](/r/belarus/search?q=author%3A%27Cointelegraph_news%27&amp;restrict_sr=on&amp;sort=new)|1|1%
-[Ford](/r/Ford/search?q=author%3A%27Cointelegraph_news%27&amp;restrict_sr=on&amp;sort=new)|1|1%",0,1430525076,,0,cqvkl5b,t3_34ko8g,1,t3_34ko8g,0,1432722377,1,,spam,t5_2qita,2015-05-02 02:04:36,False,
-20,plurk,1274041342.0,,,t2_428y6,"Recent Submission history for mychael73:
-
-domain submitted from|count|%
-:-|-:|-:
-[frogtheater.com](/search?q=%28and+site%3A%27frogtheater.com%27+author%3A%27mychael73%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new)|19|79%
-[giveforward.com](/search?q=%28and+site%3A%27giveforward.com%27+author%3A%27mychael73%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new)|2|8%
-[self.movies](/r/movies/search?q=%28and+author%3A%27mychael73%27+is_self%3A1+%29&amp;restrict_sr=on&amp;sort=new)|1|4%
-[bitcoin-teen-makes-thousands.blogspot.com](/search?q=%28and+site%3A%27bitcoin-teen-makes-thousands.blogspot.com%27+author%3A%27mychael73%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new)|1|4%
-[swtor.ga](/search?q=%28and+site%3A%27swtor.ga%27+author%3A%27mychael73%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new)|1|4%
-
-subreddit submitted to|count|%
-:-|-:|-:
-[BestOfStreamingVideo](/r/BestOfStreamingVideo/search?q=author%3A%27mychael73%27&amp;restrict_sr=on&amp;sort=new)|19|79%
-[movies](/r/movies/search?q=author%3A%27mychael73%27&amp;restrict_sr=on&amp;sort=new)|1|4%
-[Fundraisers](/r/Fundraisers/search?q=author%3A%27mychael73%27&amp;restrict_sr=on&amp;sort=new)|1|4%
-[UpliftingNews](/r/UpliftingNews/search?q=author%3A%27mychael73%27&amp;restrict_sr=on&amp;sort=new)|1|4%
-[news](/r/news/search?q=author%3A%27mychael73%27&amp;restrict_sr=on&amp;sort=new)|1|4%
-[eFreebies](/r/eFreebies/search?q=author%3A%27mychael73%27&amp;restrict_sr=on&amp;sort=new)|1|4%",0,1419935796,,0,cn97wjh,t3_2qszvn,1,t3_2qszvn,1,1425151191,1,,spam,t5_2qita,2014-12-30 11:36:36,False,
-21,banned_accounts,1401997733.0,,,t2_gv2co,"Recent Submission history for mychael73:
-
-domain submitted from|count|%
-:-|-:|-:
-[frogtheater.com](/search?q=%28and+site%3A%27frogtheater.com%27+author%3A%27mychael73%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new)|12|75%
-[giveforward.com](/search?q=%28and+site%3A%27giveforward.com%27+author%3A%27mychael73%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new)|2|13%
-[bitcoin-teen-makes-thousands.blogspot.com](/search?q=%28and+site%3A%27bitcoin-teen-makes-thousands.blogspot.com%27+author%3A%27mychael73%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new)|1|6%
-[swtor.ga](/search?q=%28and+site%3A%27swtor.ga%27+author%3A%27mychael73%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new)|1|6%
-
-subreddit submitted to|count|%
-:-|-:|-:
-[BestOfStreamingVideo](/r/BestOfStreamingVideo/search?q=author%3A%27mychael73%27&amp;restrict_sr=on&amp;sort=new)|12|75%
-[Fundraisers](/r/Fundraisers/search?q=author%3A%27mychael73%27&amp;restrict_sr=on&amp;sort=new)|1|6%
-[UpliftingNews](/r/UpliftingNews/search?q=author%3A%27mychael73%27&amp;restrict_sr=on&amp;sort=new)|1|6%
-[news](/r/news/search?q=author%3A%27mychael73%27&amp;restrict_sr=on&amp;sort=new)|1|6%
-[eFreebies](/r/eFreebies/search?q=author%3A%27mychael73%27&amp;restrict_sr=on&amp;sort=new)|1|6%",0,1419570585,,0,cn5jxw3,t3_2qf7p7,1,t3_2qf7p7,0,1425213837,1,,spam,t5_2qita,2014-12-26 06:09:45,False,
-22,banned_accounts,1401997733.0,,,t2_gv2co,"Recent Submission history for EarnFreeDogecoin:
-
-domain submitted from|count|%
-:-|-:|-:
-[bitcoin-affiliate.siterubix.com](/search?q=%28and+site%3A%27bitcoin-affiliate.siterubix.com%27+author%3A%27EarnFreeDogecoin%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new)|3|33%
-[delicious.com](/search?q=%28and+site%3A%27delicious.com%27+author%3A%27EarnFreeDogecoin%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new)|3|33%
-[diigo.com](/search?q=%28and+site%3A%27diigo.com%27+author%3A%27EarnFreeDogecoin%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new)|1|11%
-[bitcoinpaid.96.lt](/search?q=%28and+site%3A%27bitcoinpaid.96.lt%27+author%3A%27EarnFreeDogecoin%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new)|1|11%
-[delicious-freebitcoin.tk](/search?q=%28and+site%3A%27delicious-freebitcoin.tk%27+author%3A%27EarnFreeDogecoin%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new)|1|11%
-
-subreddit submitted to|count|%
-:-|-:|-:
-[Bitcoin](/r/Bitcoin/search?q=author%3A%27EarnFreeDogecoin%27&amp;restrict_sr=on&amp;sort=new)|3|33%
-[dogecoin](/r/dogecoin/search?q=author%3A%27EarnFreeDogecoin%27&amp;restrict_sr=on&amp;sort=new)|3|33%
-[Bitcoinfaucets](/r/Bitcoinfaucets/search?q=author%3A%27EarnFreeDogecoin%27&amp;restrict_sr=on&amp;sort=new)|3|33%",0,1419468886,,0,cn4nll0,t3_2qbrmb,1,t3_2qbrmb,0,1425229176,1,,spam,t5_2qita,2014-12-25 01:54:46,False,
-23,plurk,1274041342.0,,,t2_428y6,"Recent Submission history for mychael73:
-
-domain submitted from|count|%
-:-|-:|-:
-[frogtheater.com](/search?q=%28and+site%3A%27frogtheater.com%27+author%3A%27mychael73%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new)|9|69%
-[giveforward.com](/search?q=%28and+site%3A%27giveforward.com%27+author%3A%27mychael73%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new)|2|15%
-[bitcoin-teen-makes-thousands.blogspot.com](/search?q=%28and+site%3A%27bitcoin-teen-makes-thousands.blogspot.com%27+author%3A%27mychael73%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new)|1|8%
-[swtor.ga](/search?q=%28and+site%3A%27swtor.ga%27+author%3A%27mychael73%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new)|1|8%
-
-subreddit submitted to|count|%
-:-|-:|-:
-[BestOfStreamingVideo](/r/BestOfStreamingVideo/search?q=author%3A%27mychael73%27&amp;restrict_sr=on&amp;sort=new)|9|69%
-[Fundraisers](/r/Fundraisers/search?q=author%3A%27mychael73%27&amp;restrict_sr=on&amp;sort=new)|1|8%
-[UpliftingNews](/r/UpliftingNews/search?q=author%3A%27mychael73%27&amp;restrict_sr=on&amp;sort=new)|1|8%
-[news](/r/news/search?q=author%3A%27mychael73%27&amp;restrict_sr=on&amp;sort=new)|1|8%
-[eFreebies](/r/eFreebies/search?q=author%3A%27mychael73%27&amp;restrict_sr=on&amp;sort=new)|1|8%",0,1419356935,,0,cn3f55q,t3_2q6yoc,1,t3_2q6yoc,1,1425251534,1,,spam,t5_2qita,2014-12-23 18:48:55,False,
-24,Walter_Bishop_PhD,1296113806.0,,,t2_4rsq5,"Recent Submission history for wufusibu:
-
-domain submitted from|count|%
-:-|-:|-:
-[youtube.com](/search?q=%28and+site%3A%27youtube.com%27+author%3A%27wufusibu%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new)|3|10%
-[bitcoin-club.com](/search?q=%28and+site%3A%27bitcoin-club.com%27+author%3A%27wufusibu%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new)|2|7%
-[apptopress.com](/search?q=%28and+site%3A%27apptopress.com%27+author%3A%27wufusibu%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new)|2|7%
-[sleevy.nl](/search?q=%28and+site%3A%27sleevy.nl%27+author%3A%27wufusibu%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new)|2|7%
-[dubaiposter.com](/search?q=%28and+site%3A%27dubaiposter.com%27+author%3A%27wufusibu%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new)|1|3%
-[topmoving.com.tw](/search?q=%28and+site%3A%27topmoving.com.tw%27+author%3A%27wufusibu%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new)|1|3%
-[websitedesign.com.tw](/search?q=%28and+site%3A%27websitedesign.com.tw%27+author%3A%27wufusibu%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new)|1|3%
-[friscoboatstorage.com](/search?q=%28and+site%3A%27friscoboatstorage.com%27+author%3A%27wufusibu%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new)|1|3%
-[squidstart.com](/search?q=%28and+site%3A%27squidstart.com%27+author%3A%27wufusibu%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new)|1|3%
-[bitcoinnewbie.com](/search?q=%28and+site%3A%27bitcoinnewbie.com%27+author%3A%27wufusibu%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new)|1|3%
-[ericplotts.hubpages.com](/search?q=%28and+site%3A%27ericplotts.hubpages.com%27+author%3A%27wufusibu%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new)|1|3%
-[taipeimoving.com.tw](/search?q=%28and+site%3A%27taipeimoving.com.tw%27+author%3A%27wufusibu%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new)|1|3%
-[samedaybail.com](/search?q=%28and+site%3A%27samedaybail.com%27+author%3A%27wufusibu%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new)|1|3%
-[sabatrimpropill.com](/search?q=%28and+site%3A%27sabatrimpropill.com%27+author%3A%27wufusibu%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new)|1|3%
-[qrcodehome.net](/search?q=%28and+site%3A%27qrcodehome.net%27+author%3A%27wufusibu%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new)|1|3%
-[yugster.com](/search?q=%28and+site%3A%27yugster.com%27+author%3A%27wufusibu%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new)|1|3%
-[happyjump.com](/search?q=%28and+site%3A%27happyjump.com%27+author%3A%27wufusibu%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new)|1|3%
-[venuepick.com](/search?q=%28and+site%3A%27venuepick.com%27+author%3A%27wufusibu%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new)|1|3%
-[besttrending.com](/search?q=%28and+site%3A%27besttrending.com%27+author%3A%27wufusibu%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new)|1|3%
-[ditur.dk](/search?q=%28and+site%3A%27ditur.dk%27+author%3A%27wufusibu%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new)|1|3%
-
-_^...and ^4 ^more_
-
-subreddit submitted to|count|%
-:-|-:|-:
-[space](/r/space/search?q=author%3A%27wufusibu%27&amp;restrict_sr=on&amp;sort=new)|26|90%
-[sports](/r/sports/search?q=author%3A%27wufusibu%27&amp;restrict_sr=on&amp;sort=new)|2|7%
-[gaming](/r/gaming/search?q=author%3A%27wufusibu%27&amp;restrict_sr=on&amp;sort=new)|1|3%",0,1415265321,,0,cluk6xr,t3_2lgjuu,1,t3_2lgjuu,1,1426164958,1,,spam,t5_2qita,2014-11-06 10:15:21,False,
-25,dihydrogen_monoxide,1254878705.0,,,t2_3nxg9,"Recent Submission history for bitcoin-news:
-
-domain submitted from|count|%
-:-|-:|-:
-[coinsetter.com](/search?q=%28and+site%3A%27coinsetter.com%27+author%3A%27bitcoin-news%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new)|13|100%
-
-subreddit submitted to|count|%
-:-|-:|-:
-[Bitcoin](/r/Bitcoin/search?q=author%3A%27bitcoin-news%27&amp;restrict_sr=on&amp;sort=new)|9|69%
-[washingtondc](/r/washingtondc/search?q=author%3A%27bitcoin-news%27&amp;restrict_sr=on&amp;sort=new)|1|8%
-[ruby](/r/ruby/search?q=author%3A%27bitcoin-news%27&amp;restrict_sr=on&amp;sort=new)|1|8%
-[london](/r/london/search?q=author%3A%27bitcoin-news%27&amp;restrict_sr=on&amp;sort=new)|1|8%
-[news](/r/news/search?q=author%3A%27bitcoin-news%27&amp;restrict_sr=on&amp;sort=new)|1|8%",0,1411273616,,0,cko5sxb,t3_2h0d1j,1,t3_2h0d1j,0,1426898861,1,,spam,t5_2qita,2014-09-21 06:26:56,False,
-26,dihydrogen_monoxide,1254878705.0,,,t2_3nxg9,"Recent Submission history for bitcoin-news:
-
-domain submitted from|count|%
-:-|-:|-:
-[coinsetter.com](/search?q=%28and+site%3A%27coinsetter.com%27+author%3A%27bitcoin-news%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new)|13|100%
-
-subreddit submitted to|count|%
-:-|-:|-:
-[Bitcoin](/r/Bitcoin/search?q=author%3A%27bitcoin-news%27&amp;restrict_sr=on&amp;sort=new)|9|69%
-[washingtondc](/r/washingtondc/search?q=author%3A%27bitcoin-news%27&amp;restrict_sr=on&amp;sort=new)|1|8%
-[ruby](/r/ruby/search?q=author%3A%27bitcoin-news%27&amp;restrict_sr=on&amp;sort=new)|1|8%
-[london](/r/london/search?q=author%3A%27bitcoin-news%27&amp;restrict_sr=on&amp;sort=new)|1|8%
-[news](/r/news/search?q=author%3A%27bitcoin-news%27&amp;restrict_sr=on&amp;sort=new)|1|8%",0,1411187376,,0,ckndz1t,t3_2gxcfi,1,t3_2gxcfi,0,1426912096,1,,spam,t5_2qita,2014-09-20 06:29:36,False,
-27,DiggDejected,1282910658.0,,,t2_4a86c,"Recent Submission history for bitcoin-news:
-
-domain submitted from|count|%
-:-|-:|-:
-[coinsetter.com](/search?q=%28and+site%3A%27coinsetter.com%27+author%3A%27bitcoin-news%27+is_self%3A0+%29&amp;restrict_sr=off&amp;sort=new)|13|100%
-
-subreddit submitted to|count|%
-:-|-:|-:
-[Bitcoin](/r/Bitcoin/search?q=author%3A%27bitcoin-news%27&amp;restrict_sr=on&amp;sort=new)|9|69%
-[washingtondc](/r/washingtondc/search?q=author%3A%27bitcoin-news%27&amp;restrict_sr=on&amp;sort=new)|1|8%
-[ruby](/r/ruby/search?q=author%3A%27bitcoin-news%27&amp;restrict_sr=on&amp;sort=new)|1|8%
-[london](/r/london/search?q=author%3A%27bitcoin-news%27&amp;restrict_sr=on&amp;sort=new)|1|8%
-[news](/r/news/search?q=author%3A%27bitcoin-news%27&amp;restrict_sr=on&amp;sort=new)|1|8%",0,1411151509,,0,ckmysym,t3_2gvtb6,1,t3_2gvtb6,0,1426919313,1,,spam,t5_2qita,2014-09-19 20:31:49,False,
-28,NedRadnad,1393120781.0,,,t2_fejpu,"Feel free to modify the dates or post your found gold. I found this post to be ahead of it's time:
-
-The Three Stages of Bitcoin - Putting things in perspective. http://bitcoin-trader.blogspot.com/2011/10/three-stages-of-bitcoin.html
-
-Here is one from an earlier time frame, guy emailed Admins to try buying Reddit Gold with Bitcoins: http://www.reddit.com/r/Bitcoin/comments/hq5sr/idea_for_encouraging_reddit_admins_to_adopt/
-
-The First 17 Threads that were posted:
-http://www.reddit.com/search?q=(and+timestamp:1200478730..1294256330+reddit:%27Bitcoin%27)&amp;sort=top&amp;syntax=cloudsearch
-
-The very first post in /r/Bitcoin received 14 upvotes and 10 comments: 
-http://www.reddit.com/r/Bitcoin/comments/e3qjb/bitcoin_currency_exchange_roundup/
-
-The second post in /r/Bitcoin by /u/sgornick who is still active today. Are you SN?
-http://www.reddit.com/r/Bitcoin/comments/e7yeq/bitcoin_a_rubegoldberg_machine_for_buying/
-
-
-Edit: Looks like some guy ripped off my post, interesting.",0,1409785010,,0,ck8g2h9,t3_2feeld,1,t3_2feeld,1445,1427209710,1,,Bitcoin,t5_2s3qj,2014-09-04 00:56:50,False,1409795080.0
-29,NedRadnad,1393120781.0,,,t2_fejpu,"/r/Bitcoin October 13th-22nd 2011 When Bitcoin was $2
-http://www.reddit.com/search?q=(and+timestamp:1318478730..1319256330+reddit:%27Bitcoin%27)&amp;sort=top&amp;syntax=cloudsearch",0,1409771975,,0,ck89acg,t3_2fd1bx,1,t3_2fd1bx,15179,1427213431,7,,Bitcoin,t5_2s3qj,2014-09-03 21:19:35,False,
-30,ModerationLog,1331600488.0,moderation-log,detects [removed] submissions,t2_75nax,"
-This link appears to have been removed from /r/worldnews by either the spam filter or moderators.
+The original comment's content was as follows:
 
 ---
 
-[&amp;#39;Bitcoin Ransom Scam&amp;#39; Warning For Email Users](http://www.reddit.com/r/worldnews/comments/1qq8ur/bitcoin_ransom_scam_warning_for_email_users/)
+&gt; Is it real?? I love you Binance. Just sending you maximum amount. Why there is 0,1 max, i would like to send you more...",,1581433339,{},fhb2jt5,True,t3_f29hxu,False,True,t3_f29hxu,/r/noncensored_bitcoin/comments/f29hxu/uncensoredrbitcoin_daily_discussion_february_10/fhb2jt5/,1581433341,1,True,False,noncensored_bitcoin,t5_3nug4,0,2020-02-11 16:02:19,,
+1,[],,wilk007,,,[],, ,dark,text,t2_8b32k,False,False,[],"&gt;I don’t have a Bitcoin wallet 
 
-submitted 5 hours ago by: [Kykykz](/user/Kykykz) to [worldnews](/r/worldnews)
+Yeah bitcoin wallets are super hard to come by at the minute, super limited supply",,1581433295,{},fhb2hfy,False,t3_f23gy6,False,True,t1_fhar9qu,/r/drugsarebeautiful/comments/f23gy6/the_photo_i_get_when_i_asked_my_vendor_if_he_had/fhb2hfy/,1581433297,1,True,False,drugsarebeautiful,t5_2uxq8,0,2020-02-11 16:01:35,,
+2,[],,ask_for_pgp,,,[],,,,text,t2_opayc,False,False,[],"problem with bitcoin is that its not a sweet subscription. netflix would probably only make a third of the money if they have to convince people month after month to pay. so netflix doesnt add bitcoin. 
+
+that was also the argument of the pornsites that removed bitcoin",,1581433252,{},fhb2f8x,False,t3_f1pl3d,False,True,t1_fh8f9jn,/r/BitcoinMarkets/comments/f1pl3d/bitcoin_has_only_been_above_10000_for_170_days_of/fhb2f8x/,1581433254,1,True,False,BitcoinMarkets,t5_2wwh3,0,2020-02-11 16:00:52,,
+3,[],,CharliesChan,,,[],,,,text,t2_m463z7,False,False,[],"What you said suggests to me that you have read at least 15 pages in the 'How Things Work' dummies book. I have spent a lifetime at the center of an encyclopedia of what causes amazing high tech machines to stop working. The first computer I analyzed had core memory &amp; had to be reprogrammed using a punched tape spool &amp; I looked to no one for guidance or advise. Others looked to me.
+
+Everything works on paper until something goes wrong. I suppose you hope the bitcoin bubble has become a self-supporting armored bitcoin balloon that has risen above the earth &amp; will live on forever even without any pesky hateful people getting ready to destroy each other all over the planet due to overly-accredited under-educated short thinking arrogance &amp; overdoses of emotional issues brought on by their inability to adapt to their birth stupidity.
+
+Let this truth set you free from your bondages &amp; live free to learn the difference between truth &amp; the real BS dripping from these virtual internet chat rooms.
+
+I saw a sound use for bitcoin 'once-upon-a-time' ago, but greedy players came along &amp; killed it's usefulness to be used for a good purpose as opposed to being an indicator of Armageddon's distance.",,1581433139,{},fhb297z,False,t3_f0d3fi,False,True,t1_fhandzl,/r/mtgoxinsolvency/comments/f0d3fi/what_can_we_expect_from_the_next_mar_2020/fhb297z/,1581433141,1,True,False,mtgoxinsolvency,t5_30lhf,0,2020-02-11 15:58:59,,
+4,[],,BadBadgerChef,,noob,"[{'e': 'text', 't': 'redditor for 5 weeks'}]",2ec8e69e-6c36-11e9-a04b-0afb553d4ea6,redditor for 5 weeks,dark,richtext,t2_5ctoxtyz,False,False,[],"Central banks already have digital currency. It's called the dollar. 
+
+They're trying to copy Bitcoin. But governments can't copy Bitcoin because Bitcoin is money not from governments.",,1581433131,{},fhb28ru,False,t3_f28rxk,False,True,t3_f28rxk,/r/Bitcoin/comments/f28rxk/central_banks_inch_towards_digital_currency/fhb28ru/,1581433133,1,True,False,Bitcoin,t5_2s3qj,0,2020-02-11 15:58:51,,
+5,[],,summerminx,,v18,[],,Verified Seller,dark,text,t2_31ypn5rp,False,False,[],"x200B;
+
+CONTACT INFO
+
+KIK : summerminx
+
+Telegram : https://t.me/summerminx
+
+[Please check this link for my limits and things that I offer ] (https://www.reddit.com/user/summerminx/comments/elt0zb/faq_limits_and_services/?utm_source=share&amp;utm_medium=web2x)
+
+KIK SESSIONS ♡
+
+Minimum 10 minutes are required.
+
+Text only - $1/ min
+
+Text + pics - $2/ min
+
+Text + pics + videos- $3/ min
+
+S4L - Depends on the number of clips and pics you want. Please ask me
+
+*If you want me to include your name in kik videos it adds +10$ to the cost.
+
+*If you want light anal play in your kik sessions it adds +$20 to the cost.
+
+*If you want to add stuff like pissing it adds +$30 to the cost
+
+CAM SESSIONS ♡
+
+*I don't always offer cam. Check the [cam] tag on my ads to see if i am available.
+
+*I don't offer submissive cam sessions. I terminate the session without a refund if you start to push my boundaries.
+
+*I wear a mask and don't show full face.
+
+5 mins - $30
+
+Any additional minutes are $5/min.
+
+*If you want light anal in your session it adds +$20 to the price.
+
+*Any request that requires clean up like pissing adds +$30 to the price.
+
+*If you want something written on my body during the session it adds $10 to the price.
+
+*Outfit choice is extra +$15
+
+PICS ♡
+
+*Min. 5 photos are required.
+
+* In custom pics u can decide the positions, outfit etc. If u want me to write ur name on my body it will add +10 to the price.
+
+$4/pic --&gt; Custom Pictures
+
+$2/pic --&gt; Pre-made Pictures
+
+CUSTOM VIDS ♡
+
+*Min. 5 minutes are required.
+
+*If you want me to mention your name in the video it adds +$15 to the price.
+
+*If you want me to write something on my body, it adds $10 to the price.
+
+*If you want light anal, it adds +$20 to the price.
+
+*If you want pee play it adds +$30 to the price.
+
+Vanilla (striptease, dirty talking, spanking, JOI etc.) - $7/ min
+
+GFE ♡
+
+Chat (sexual + nonsexual), short video clips &amp; photos during the day and one 10 mins vid heavy sexting session - 1 day - $70
+
+Chat (sexual + nonsexual), short video clips &amp; photos during the day and one 20 mins vid heavy sexting session - 3 days - $150 
+
+Chat (sexual + nonsexual), short video clips &amp; photos during the day and three 15 mins vid heavy sexting sessions - 7 days - $300
+
+Please remember GFE is not a 7/24 thing and I may not be available all day for interaction.
+
+Customized GFE (roleplay, femdom etc.) are available. Please message me with whatever you have in mind and we can discuss.
+
+A discount will be applied to additional sexting sessions during your GFE
+
+RATE ♡
+
+You can choose cock worship, humiliation or genuine opinion
+
+Text only - $10
+
+3-5 min video (clothed) - $20
+
+3-5 min video (naked + dirty talking) - $40
+
+3-5 min video (naked + dirty talking + masturbation) - $50
+
+*If you want JOI or any other requests, it may add up to the price.
+
+*If you want your name included it adds +$10 to the price.
+
+*If you want me to write something on my body it adds +$10 to the price.
+
+*You can also get a cumshot rating and description of where would I want your cum for only extra +$5 😋 
+
+PAYMENT METHODS
+
+PayPal, Cashapp, Venmo, Indiebill (no sign up needed just your credit / debit card), Bitcoin (preferred, no fees)
+
+I don't accept any other payment methods.
+
+DISCLAIMER
+
+I assume you have read my disclaimer first when you contact me.
+
+I never show full face in any of my services
+
+I never meet in real life. All services are online only.
+
+I don't deliver the content or start the sessions before the payment is completed.
+
+I don't reply if you don't state : what content do you want to purchase (detailed description pls) and your payment method in the firstmessage.
+
+I deliver custom pics &amp; videos within one week
+
+If you purchase a session and before/during the session something comes up and you can't do it, I won't reschedule it or issue a refund.
+
+If you get rude, start to push boundaries or try to get me perform in a way we haven't discussed prior to the session during the session, I will stop the service without issuing a refund.
+
+You can use GFE sexting sessions only during your GFE period. I won't reschedule them after your GFE period ends.
+
+If you send payment for a service without getting my approval first, I will consider it as a tip and won't issue a refund.",,1581433102,{},fhb2760,True,t3_f29fw3,False,True,t3_f29fw3,/r/Sexsells/comments/f29fw3/this_hot_fet_friendly_european_redhead_is/fhb2760/,1581433105,1,True,False,Sexsells,t5_3122l,0,2020-02-11 15:58:22,,
+6,[],,censorship_notifier,,,[],,,,text,t2_b3zn6er,False,True,[],"The following comment by sneeeks was **silently** greylisted.
+
+The original comment can be found(in censored form) at this link:
+
+np.reddit.com/r/ Bitcoin/comments/f155ts/-/fh74d51?context=4
+
+The original comment's content was as follows:
 
 ---
 
-**[Confirm it's missing](/r/worldnews/search?q=""%27Bitcoin%20Ransom%20Scam%27%20Warning%20For%20Email%20Users""&amp;sort=new&amp;restrict_sr=on)** |
-**[Message the moderators about this removal](http://www.reddit.com/message/compose?to=/r/worldnews&amp;subject=Why%20was%20this%20removed%20from%20/r/worldnews%3F%3A%20%27Bitcoin%20Ransom%20Scam%27%20Warning%20For%20Email%20Users&amp;message=http%3A//www.reddit.com/r/worldnews/comments/1qq8ur/bitcoin_ransom_scam_warning_for_email_users/)** |
-**[Post to PoliticalModeration](/r/PoliticalModeration/submit?title=/r/worldnews%20%5Bremoved%5D%20%27Bitcoin%20Ransom%20Scam%27%20Warning%20For%20Email%20Users&amp;url=http%3A//www.reddit.com/r/worldnews/comments/1qq8ur/bitcoin_ransom_scam_warning_for_email_users/)**
+&gt; Buying ETH at $175",,1581433067,{},fhb258b,True,t3_f29fko,False,True,t3_f29fko,/r/noncensored_bitcoin/comments/f29fko/uncensoredrbitcoin_daily_discussion_february_09/fhb258b/,1581433070,1,True,False,noncensored_bitcoin,t5_3nug4,0,2020-02-11 15:57:47,,
+7,[],,Decestor,,,[],,,,text,t2_iszuu,False,False,[],"Nu slynger jeg bare lige en frase ud:
 
+*bitcoin funded deep web assassination*",,1581433019,{},fhb22op,False,t3_f2614t,False,True,t1_fhajowp,/r/Denmark/comments/f2614t/nabostridigheder/fhb22op/,1581433020,1,True,False,Denmark,t5_2qjto,0,2020-02-11 15:56:59,,
+8,[],,panduh9228,,,[],,,,text,t2_3j2btx8d,False,False,[],"I have a degree in economics and I don't feel that exposure has had much application to my understanding of bitcoin.
 
-|           |     | |           |     |
-------------|-----|-|-----------|-----|
-created:    |  Nov. 16, 2013 12:11 a.m. | |score:     |  0 |
-first seen: |  Nov. 16, 2013 12:11 a.m. | |upvotes:   |  3 |
-last seen:  |  Nov. 16, 2013 4:38 a.m. | |downvotes: |  5 |
-missing:    |  Nov. 16, 2013 5:11 a.m. | |comments:  |  0 |
+The bitcoin project was designed in a way that it could, conceivably, store value if it caught on. That's why things like scarcity and fungibility was built into it. That doesn't mean it was destined to succeed at storing value, simply because it was designed to be able to. You still need participants and a market. But at least it started with a good framework. Bear with me.
 
-",0,1384578747,,0,cdfi4vn,t3_1qq8w7,1,t3_1qq8w7,18046,1428639976,1,,POLITIC,t5_2r84s,2013-11-16 06:12:27,False,
-31,ModerationLog,1331600488.0,,,t2_75nax,"
-This link appears to have been removed from /r/worldnews by either the spam filter or moderators.
+With no real market or valuation in the early days, it didn't exactly store value in any meaningful sense. But because the groundwork had been laid, people saw an opportunity to buy as a means of speculation. This speculation was essentially self-fulfilling - it became profitable because other people were speculating. That's how bubbles work. We've seen 3 distinct ones.
 
----
+However, keep in mind these aren't beanie babies. Yes speculation fueled things to get to this point, but look at where we are now. Maybe you aren't personally finding a usefulness for holding and transferring bitcoins - but I can assure you that many individuals are. And they tend to be on the wealthier side.
 
-[&amp;#39;Bitcoin Ransom Scam&amp;#39; Warning For Email Users](http://www.reddit.com/r/worldnews/comments/1qq8ur/bitcoin_ransom_scam_warning_for_email_users/)
+Whether you like it or not, it has slowly been developing into a unique asset that many people are discovering is functional to them for various reasons. Is it perfect for everyone? No, but it doesn't need to be. That's why we have many different assets, currencies, commodities. Bitcoin just happens to be another one. It is evolving not towards what people want it to be, but what it excels at. Storing and moving large amounts of value in a decentralized manner.
 
-submitted 5 hours ago by: [Kykykz](/user/Kykykz) to [worldnews](/r/worldnews)
+I don't think you're dumb. If I did I probably wouldn't have replied at all. I just think you're being stubborn. So to address your question directly:
 
----
+&gt; how speculative-investing alone will EVER create a \*stable\* BTC 
 
-**[Confirm it's missing](/r/worldnews/search?q=""%27Bitcoin%20Ransom%20Scam%27%20Warning%20For%20Email%20Users""&amp;sort=new&amp;restrict_sr=on)** |
-**[Message the moderators about this removal](http://www.reddit.com/message/compose?to=/r/worldnews&amp;subject=Why%20was%20this%20removed%20from%20/r/worldnews%3F%3A%20%27Bitcoin%20Ransom%20Scam%27%20Warning%20For%20Email%20Users&amp;message=http%3A//www.reddit.com/r/worldnews/comments/1qq8ur/bitcoin_ransom_scam_warning_for_email_users/)** |
-**[Post to PoliticalModeration](/r/PoliticalModeration/submit?title=/r/worldnews%20%5Bremoved%5D%20%27Bitcoin%20Ransom%20Scam%27%20Warning%20For%20Email%20Users&amp;url=http%3A//www.reddit.com/r/worldnews/comments/1qq8ur/bitcoin_ransom_scam_warning_for_email_users/)**
+It won't. What speculative investing has created however is exposure, capital for development, and a large network of participants. Speculating has taken it from nothing to something. It did (and is still doing) exactly what it was supposed to do for all parties involved. People speculated with their capital thinking down the road, the network would be further fleshed out and valuable. It is not so unlike any publicly-traded startup with negative profits but rising stock price from speculation.
 
+You can't deny that it's a lot more useful today than it was in 2011. Again, maybe you aren't someone who actually sees the point in holding bitcoin besides to get explosive gains. But there are plenty of people who are already starting to consider it legitimate enough to be a part of their broader portfolio. Because of it's unique decentralized and psuedo-anonymous properties, it represents potential diversification and hedges that many want exposure to.
 
-|           |     | |           |     |
-------------|-----|-|-----------|-----|
-created:    |  Nov. 16, 2013 12:11 a.m. | |score:     |  0 |
-first seen: |  Nov. 16, 2013 12:11 a.m. | |upvotes:   |  3 |
-last seen:  |  Nov. 16, 2013 4:38 a.m. | |downvotes: |  5 |
-missing:    |  Nov. 16, 2013 5:11 a.m. | |comments:  |  0 |
+I simply feel you aren't viewing it with an open-mind to understand where it is now and why. You want it to have a stable price and have widespread adoption, but in the same breath are treating speculation as completely pointless. How is it supposed to get from A to Z without steps B, C, D... in the meanwhile?
 
-",0,1384578743,,0,cdfi4tx,t3_1qqsi9,1,t3_1qqsi9,4,1428639978,1,,ModerationLog,t5_2tqat,2013-11-16 06:12:23,False,
-32,ModerationLog,1331600488.0,moderation-log,detects [removed] submissions,t2_75nax,"
-This link appears to have been removed from /r/news by either the spam filter or moderators.
+It will never be completely stable because the world is never completely stable. But as it develops further, the speculative upside goes down. As speculation goes down, volatility goes down as the price begins to represent more what the value of the network actually is rather than what it could potentially be. In the beginning it was very exciting but not particularly useful. In the end, it may become not particularly exciting but very useful. Such is the course of new technology.",,1581433011,{},fhb22b6,False,t3_f1pl3d,False,True,t1_fhax98h,/r/BitcoinMarkets/comments/f1pl3d/bitcoin_has_only_been_above_10000_for_170_days_of/fhb22b6/,1581433013,1,True,False,BitcoinMarkets,t5_2wwh3,0,2020-02-11 15:56:51,,
+9,[],,Mark_Bear,,,[],,,,text,t2_3jity01v,False,False,[],"Sure, buddy.
 
----
+Why  don't you learn what Bitcoin actually is and the basics of how it  works?  Afraid you're not smart enough?  Why not try anyhow?  Afraid  you'll fail?  Don't be afraid.
 
-[Smile! Selfie is in the dictionary: Word among new entries including &amp;#39;bitcoin&amp;#39;, &amp;#39;twerking&amp;#39; and &amp;#39;phablet&amp;#39;](http://www.reddit.com/r/news/comments/1l8mhb/smile_selfie_is_in_the_dictionary_word_among_new/)
+Go  ahead.  Be a man.  It will hurt less than the shame you carry around  inside you for acting like a little boy in public all these years.
 
-submitted 36 minutes ago by: [nhankpham](/user/nhankpham) to [news](/r/news)
-
----
-
-**[Confirm it's missing](/r/news/search?q=""Smile%21%20Selfie%20is%20in%20the%20dictionary%20Word%20among%20new%20entries%20including%20%27bitcoin%27%2C%20%27twerking%27%20and%20%27phablet%27""&amp;sort=new&amp;restrict_sr=on)** |
-**[Message the moderators about this removal](http://www.reddit.com/message/compose?to=/r/news&amp;subject=Why%20was%20this%20removed%20from%20/r/news%3F%3A%20Smile%21%20Selfie%20is%20in%20the%20dictionary%3A%20Word%20among%20new%20entries%20including%20%27bitcoin%27%2C%20%27twerking%27%20and%20%27phablet%27&amp;message=http%3A//www.reddit.com/r/news/comments/1l8mhb/smile_selfie_is_in_the_dictionary_word_among_new/)** |
-**[Post to PoliticalModeration](/r/PoliticalModeration/submit?title=/r/news%20%5Bspam%20filtered%5D%20Smile%21%20Selfie%20is%20in%20the%20dictionary%3A%20Word%20among%20new%20entries%20including%20%27bitcoin%27%2C%20%27twerking%27%20and%20%27phablet%27&amp;url=http%3A//www.reddit.com/r/news/comments/1l8mhb/smile_selfie_is_in_the_dictionary_word_among_new/)**
-
-
-|           |     | |           |     |
-------------|-----|-|-----------|-----|
-created:    |  Aug. 28, 2013 4:19 a.m. | |score:     |  1 |
-first seen: |  Aug. 28, 2013 4:19 a.m. | |upvotes:   |  1 |
-last seen:  |  Aug. 28, 2013 4:19 a.m. | |downvotes: |  0 |
-missing:    |  Aug. 28, 2013 4:55 a.m. | |comments:  |  0 |
-
-",0,1377665749,,0,cbwt6dl,t3_1l8miv,1,t3_1l8miv,2174,1429674656,1,,POLITIC,t5_2r84s,2013-08-28 06:55:49,False,
-33,ModerationLog,1331600488.0,moderation-log,detects [removed] submissions,t2_75nax,"
-This link appears to have been removed from /r/news by either the spam filter or moderators.
-
----
-
-[&amp;#39;Bitcoin is a currency&amp;#39;: Federal judge says the virtual cash is real money](http://www.reddit.com/r/news/comments/1k0q20/bitcoin_is_a_currency_federal_judge_says_the/)
-
-submitted 2 hours ago by: [Doxydad](/user/Doxydad) to [news](/r/news)
-
----
-
-**[Confirm it's missing](/r/news/search?q=""%27Bitcoin%20is%20a%20currency%27%20Federal%20judge%20says%20the%20virtual%20cash%20is%20real%20money""&amp;sort=new&amp;restrict_sr=on)** |
-**[Message the moderators about this removal](http://www.reddit.com/message/compose?to=/r/news&amp;subject=Spam%20filtered%20in%20/r/news%20%3A%20%27Bitcoin%20is%20a%20currency%27%3A%20Federal%20judge%20says%20the%20virtual%20cash%20is%20real%20money&amp;message=http%3A//www.reddit.com/r/news/comments/1k0q20/bitcoin_is_a_currency_federal_judge_says_the/)** |
-**[Post to PoliticalModeration](/r/PoliticalModeration/submit?title=/r/news%20%5Bspam%20filtered%5D%20%27Bitcoin%20is%20a%20currency%27%3A%20Federal%20judge%20says%20the%20virtual%20cash%20is%20real%20money&amp;url=http%3A//www.reddit.com/r/news/comments/1k0q20/bitcoin_is_a_currency_federal_judge_says_the/)**
-
-
-|           |     | |           |     |
-------------|-----|-|-----------|-----|
-created:    |  Aug. 9, 2013 11:28 a.m. | |score:     |  1 |
-first seen: |  Aug. 9, 2013 1:44 p.m. | |upvotes:   |  1 |
-last seen:  |  [[LIKELY SPAM FILTERED]](/message/compose?to=/r/news&amp;subject=Spam%20filtered%20in%20/r/news%20%3A%20%27Bitcoin%20is%20a%20currency%27%3A%20Federal%20judge%20says%20the%20virtual%20cash%20is%20real%20money&amp;message=http%3A//www.reddit.com/r/news/comments/1k0q20/bitcoin_is_a_currency_federal_judge_says_the/)  | |downvotes: |  0 |
-missing:    |  Aug. 9, 2013 1:52 p.m. | |comments:  |  0 |
-
-",0,1376056529,,0,cbk7rsn,t3_1jzia4,1,t3_1jzia4,56959,1429889999,1,,POLITIC,t5_2r84s,2013-08-09 15:55:29,False,
-34,ModerationLog,1331600488.0,,,t2_75nax,"
-This link appears to have been removed from /r/news by either the spam filter or moderators.
-
----
-
-[&amp;#39;Bitcoin is a currency&amp;#39;: Federal judge says the virtual cash is real money](http://www.reddit.com/r/news/comments/1k0q20/bitcoin_is_a_currency_federal_judge_says_the/)
-
-submitted 2 hours ago by: [Doxydad](/user/Doxydad) to [news](/r/news)
-
----
-
-**[Confirm it's missing](/r/news/search?q=""%27Bitcoin%20is%20a%20currency%27%20Federal%20judge%20says%20the%20virtual%20cash%20is%20real%20money""&amp;sort=new&amp;restrict_sr=on)** |
-**[Message the moderators about this removal](http://www.reddit.com/message/compose?to=/r/news&amp;subject=Spam%20filtered%20in%20/r/news%20%3A%20%27Bitcoin%20is%20a%20currency%27%3A%20Federal%20judge%20says%20the%20virtual%20cash%20is%20real%20money&amp;message=http%3A//www.reddit.com/r/news/comments/1k0q20/bitcoin_is_a_currency_federal_judge_says_the/)** |
-**[Post to PoliticalModeration](/r/PoliticalModeration/submit?title=/r/news%20%5Bspam%20filtered%5D%20%27Bitcoin%20is%20a%20currency%27%3A%20Federal%20judge%20says%20the%20virtual%20cash%20is%20real%20money&amp;url=http%3A//www.reddit.com/r/news/comments/1k0q20/bitcoin_is_a_currency_federal_judge_says_the/)**
-
-
-|           |     | |           |     |
-------------|-----|-|-----------|-----|
-created:    |  Aug. 9, 2013 11:28 a.m. | |score:     |  1 |
-first seen: |  Aug. 9, 2013 1:44 p.m. | |upvotes:   |  1 |
-last seen:  |  [[LIKELY SPAM FILTERED]](/message/compose?to=/r/news&amp;subject=Spam%20filtered%20in%20/r/news%20%3A%20%27Bitcoin%20is%20a%20currency%27%3A%20Federal%20judge%20says%20the%20virtual%20cash%20is%20real%20money&amp;message=http%3A//www.reddit.com/r/news/comments/1k0q20/bitcoin_is_a_currency_federal_judge_says_the/)  | |downvotes: |  0 |
-missing:    |  Aug. 9, 2013 1:52 p.m. | |comments:  |  0 |
-
-",0,1376056525,,0,cbk7rqy,t3_1k0x3m,1,t3_1k0x3m,4,1429890000,1,,ModerationLog,t5_2tqat,2013-08-09 15:55:25,False,
+Men  don't go around trying to attack or make fun of things they don't  understand.  Men leave that behavior behind.   Won't you give it a try?   We're here to help, in case you have any legitimate questions.  Let us  know!",,1581433011,{},fhb22b2,False,t3_f29ekk,False,True,t3_f29ekk,/r/Bitcoin/comments/f29ekk/im_just_watching_at_the_sidelines/fhb22b2/,1581433013,1,True,False,Bitcoin,t5_2s3qj,0,2020-02-11 15:56:51,,

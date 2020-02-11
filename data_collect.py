@@ -2,14 +2,15 @@ import requests
 import pandas as pd
 from tabulate import tabulate
 import datetime
+import sys
 
 class DataCollect:
 
-    def data_from_api(self):
+    def data_from_api(self, query):
 
         url = "https://api.pushshift.io/reddit/comment/search"
 
-        querystring = {"sort": "%27asc%27", "q": "%27bitcoin%27", "size": "34"}
+        querystring = {"sort": "desc", "q": query, "size": 1000}
 
         headers = {
             'User-Agent': "PostmanRuntime/7.13.0",
@@ -24,12 +25,10 @@ class DataCollect:
         }
 
         response = requests.request("GET", url, headers=headers, params=querystring)
-
-        print(response.text)
-
         data = response.json()['data']
 
-        print(len(data))
-        exit()
+        print('total bytesize is {}'.format(str(sys.getsizeof(response.text))))
+        print('total number of results is {}'.format(len(data)))
+
         return data
 
