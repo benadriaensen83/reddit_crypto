@@ -18,6 +18,7 @@ for i in range(len(data)):
 # create dataframe from data and write to pickle
 
 data = pd.DataFrame(data)
+
 print(tabulate(data, headers = 'keys', tablefmt= 'fancy_grid'))
 pd.DataFrame.to_pickle(data, 'csv_files/reddit_comments_' + str(time()) + '.pkl')
 
