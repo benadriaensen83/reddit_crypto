@@ -10,7 +10,7 @@ class DataCollect:
 
         url = "https://api.pushshift.io/reddit/comment/search"
 
-        querystring = {"sort": "desc", "q": query, "size": 1}
+        querystring = {"sort": "desc", "q": query, "size": 300}
 
         headers = {
             'User-Agent': "PostmanRuntime/7.13.0",
