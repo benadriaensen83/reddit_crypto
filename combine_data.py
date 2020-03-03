@@ -11,7 +11,6 @@ def combine():
         os.remove(fp)
 
     data = data.drop_duplicates(subset=['permalink'])
-    print(tabulate(data, headers='keys', tablefmt='fancy_grid'))
 
     # save as pickle for futuer appending and as csv for handing over to another app (e.g. Power BI)
 

@@ -6,11 +6,11 @@ import sys
 
 class DataCollect:
 
-    def data_from_api(self, query):
+    def data_from_api(self, query, size):
 
         url = "https://api.pushshift.io/reddit/comment/search"
 
-        querystring = {"sort": "desc", "q": query, "size": 1000}
+        querystring = {"sort": "desc", "q": query, "size": size}
 
         headers = {
             'User-Agent': "PostmanRuntime/7.13.0",
